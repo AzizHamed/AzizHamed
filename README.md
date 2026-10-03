@@ -55,22 +55,32 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
+
   <img
-    height="165"
+    width="48%"
     src="https://github-readme-stats.vercel.app/api?username=azizhamed&show_icons=true&locale=en"
+    alt="Aziz Hamed GitHub Stats"
   />
-  
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizhamed&layout=compact"
-  />
-</p>
 
-<p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=azizhamed"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizhamed&layout=compact"
+    alt="Most Used Languages"
   />
-</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="60%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=azizhamed"
+    alt="GitHub Streak"
+  />
+
+</div>
