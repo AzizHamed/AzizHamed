@@ -8,9 +8,7 @@
   B.Sc. in Software Engineering | Building Web, Mobile & Backend Applications
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azizhamed&label=Profile%20Views&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
